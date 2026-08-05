@@ -1,4 +1,4 @@
-  {
+ {
     "version": 8,
     "name": "Trail Buddy USGS Topo",
     "sources": {
@@ -16,4 +16,3 @@
       { "id": "usgs-topo", "type": "raster", "source": "usgs-topo", "minzoom": 0, "maxzoom": 22 }
     ]
   }
-
