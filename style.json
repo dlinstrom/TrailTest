@@ -7,7 +7,7 @@
         "tiles": ["https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}"],
         "tileSize": 256,
         "minzoom": 0,
-        "maxzoom": 16,
+        "maxzoom": 17,
         "attribution": "Map services and data available from U.S. Geological Survey, National Geospatial Program."
       }
     },
